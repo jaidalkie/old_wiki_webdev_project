@@ -1,0 +1,23 @@
+/* styles.css */
+
+aside {
+  width: 10%;
+  float: left;
+  background-color: white;
+}
+
+article {
+  background-color: silver;
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  background-color: white;
+}
+
+footer {
+  background-color: white;
+}
